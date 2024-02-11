@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://http://65.0.97.254:8081/repository/TestRepo1/</url>
+		    <url>http://35.154.197.168:8081/repository/maven-releases/</url>
 		</repository>
   	</distributionManagement>
 	
